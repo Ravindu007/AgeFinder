@@ -27,6 +27,7 @@ public class Input {
             System.out.println("Invalid output");
         }
 
+
         sc.close();
 
     }
